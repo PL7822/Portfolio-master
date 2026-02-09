@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="Book-Site"
               description="Welcome to Book Sites, your go-to platform for discovering and exploring a wide range of books across various genres. Whether you're a passionate reader or someone looking to find your next great read, we've got you covered."
-              ghLink="https://github.com/PL7822/Book-Site"
-              demoLink="https://app.netlify.com/projects/book-sites/overview"
+              // ghLink="https://github.com/PL7822/Book-Site"
+              demoLink="https://book-sites.netlify.app/"
             />
           </Col>
 
@@ -41,7 +41,7 @@ function Projects() {
       and holistic development. We offer programs like BCA, BSc, BA, and BCom, 
       guided by experienced faculty and modern facilities to prepare students 
       for a successful future."
-              ghLink="https://github.com/PL7822/College-Web"
+              // ghLink="https://github.com/PL7822/College-Web"
               demoLink="https://68d190229c58a42ff16206ae--glistening-naiad-be5d1a.netlify.app/"
             />
           </Col>
@@ -52,7 +52,7 @@ function Projects() {
               isBlog={false}
               title="wanderlust"
               description= "Wanderlust is a travel and accommodation platform that helps users discover and book unique stays across the world  From cozy villas to luxury resorts, we provide a wide range of options to make every journey memorable and comfortable."
-              ghLink="https://github.com/PL7822/wanderlust"
+              // ghLink="https://github.com/PL7822/wanderlust"
               demoLink="https://wanderlust1-e0lv.onrender.com/listings"
             />
           </Col>
@@ -63,7 +63,7 @@ function Projects() {
               isBlog={false}
               title="software-company-web"
               description=" We are a software solutions company focused on building modern, reliable,  and scalable applications. Our mission is to help businesses grow through technology by delivering customized web and mobile solutions with innovation, quality, and efficiency."
-              ghLink="https://github.com/PL7822/IT-Software-Company-Business-Website"
+              // ghLink="https://github.com/PL7822/IT-Software-Company-Business-Website"
               demoLink="https://app.netlify.com/projects/software-company-web/overview"
             />
           </Col>
@@ -75,7 +75,7 @@ function Projects() {
               title="My-Portfolio"
               description="      This is my personal portfolio website built to showcase my skills,
       projects, and journey as a web developer. It highlights my work in HTML, CSS, and JavaScript with a simple and responsive design."
-              ghLink="https://github.com/PL7822/My-Portfolio"
+              // ghLink="https://github.com/PL7822/My-Portfolio"
               demoLink="https://cosmic-otter-bb873f.netlify.app/"
             />
           </Col>
@@ -88,7 +88,7 @@ function Projects() {
               description=" We are a creative photography agency dedicated to capturing moments with
       passion and precision. From portraits to events, we deliver high-quality,
       timeless photographs that tell your story beautifully."
-              ghLink="https://github.com/PL7822/Photography-Web"
+              // ghLink="https://github.com/PL7822/Photography-Web"
               demoLink="https://photography-webb.netlify.app/"
             />
           </Col>
