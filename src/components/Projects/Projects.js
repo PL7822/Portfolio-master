@@ -28,7 +28,7 @@ function Projects() {
               title="Book-Site"
               description="Welcome to Book Sites, your go-to platform for discovering and exploring a wide range of books across various genres. Whether you're a passionate reader or someone looking to find your next great read, we've got you covered."
               // ghLink="https://github.com/PL7822/Book-Site"
-              demoLink="https://app.netlify.com/projects/book-sites/overview"
+              demoLink="https://book-sites.netlify.app/"
             />
           </Col>
 
